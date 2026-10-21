@@ -1,6 +1,6 @@
-# Q-HUFDEL: Quantized model compression using Delta and Huffman coding
+# Q-DeltaHuff: A Lossless Differential Update Framework for Quantized TinyML Models on Resource-Constrained Microcontrollers
 
-Q-HUFDEL is a lossless byte-compression format for delivering model data over the air. It combines an optional byte-wise delta transform, canonical Huffman coding, and an escape symbol for values that are more efficient to store as raw bytes.
+Q-DeltaHuff is a lossless byte-compression format for delivering model data over the air. It combines an optional byte-wise delta transform, canonical Huffman coding, and an escape symbol for values that are more efficient to store as raw bytes.
 
 The repository contains:
 
